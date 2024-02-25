@@ -34,7 +34,6 @@ To use the HRP algorithm in your project, follow these steps:
    
    # Initialize HRP with asset data
    hrp = HierarchicalRiskParity(asset_returns)
-   ```
 
 4. Compute the optimal portfolio weights using the `compute_weights` method.
 
